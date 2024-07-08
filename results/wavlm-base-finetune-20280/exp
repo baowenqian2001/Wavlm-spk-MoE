@@ -1,0 +1,17 @@
+insert: 25
+delete: 64
+sub: 442
+cor: 3374
+sum 3880
+sum: 3905
+Recall: 0.5932
+Precision: 0.5164
+f1:0.5521
+TA: 0.9126 3079
+FR: 0.0874 295
+FA: 0.4068 216
+Correct Diag: 0.7841 247
+Error Diag: 0.2159 68
+FAR: 0.4068
+FRR: 0.0874
+DER: 0.2159
